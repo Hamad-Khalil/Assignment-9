@@ -12,10 +12,4 @@ for( i=0; i<= array.length; i++){
 }
 console.log(Negative(myArray));
 
-// for(i=0; i<= array.length; i++){
-//     if( array < 0){
-//         let Negative = array<0
-//     }
-//     console.log('positive');
-// }
 
